@@ -1,0 +1,8 @@
+{
+    "contract": {
+        "receipt": [
+            {"uri": "img.uri", "name": "Scan_dogovora","type": "image/jpeg"}
+        ],
+        "postal_receipt": []
+    }
+}

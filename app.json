@@ -1,0 +1,22 @@
+{
+  "name": "lawyerapp",
+  "displayName": "LawApp",
+  "expo": {
+    "name": "lawyerapp",
+    "slug": "lawyerapp",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*",
+      "./src/**/*"
+    ],
+    "updates": {
+      "enabled": false
+    }
+  }
+}
